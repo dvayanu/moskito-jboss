@@ -33,7 +33,7 @@
 		<jta-data-source>java:/DefaultDS</jta-data-source>
 
 		<!-- Moskito -->
-		<moskito.version>2.2.1</moskito.version>
+		<moskito.version>2.3.3-SNAPSHOT</moskito.version>
 
 		<!-- Ano Util -->
 		<ano-util.version>2.0.1</ano-util.version>
